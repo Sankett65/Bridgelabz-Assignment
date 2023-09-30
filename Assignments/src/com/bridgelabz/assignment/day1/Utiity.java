@@ -16,4 +16,10 @@ public class Utiity {
         int x = sc.nextInt();
         return x;
     }
+    public static char scannerchar(){
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the Charater: ");
+        char x = sc.nextLine().charAt(0);
+        return x;
+    }
 }
