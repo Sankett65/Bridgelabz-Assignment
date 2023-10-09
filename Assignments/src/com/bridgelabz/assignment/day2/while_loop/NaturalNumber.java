@@ -4,7 +4,7 @@ import com.bridgelabz.assignment.day1.Utiity;
 
 public class NaturalNumber {
     public static void main(String[] args) {
-        int n = Utiity.scannerint();
+        int n = Utiity.scannerInt();
         natural(n);
     }
 

@@ -2,7 +2,7 @@ package com.bridgelabz.assignment.day1;
 
 public class LeapYear {
     public static void main(String[] args) {
-        int year=Utiity.scannerint();
+        int year=Utiity.scannerInt();
         leap(year);
     }
 

@@ -4,8 +4,8 @@ import com.bridgelabz.assignment.day1.Utiity;
 
 public class Spring {
     public static void main(String[] args) {
-        int m= Utiity.scannerint();
-        int d = Utiity.scannerint();
+        int m= Utiity.scannerInt();
+        int d = Utiity.scannerInt();
         spring(m,d);
     }
 

@@ -4,7 +4,7 @@ import com.bridgelabz.assignment.day1.Utiity;
 
 public class Month {
     public static void main(String[] args) {
-        int month = Utiity.scannerint();
+        int month = Utiity.scannerInt();
         monthcheck(month);
     }
 

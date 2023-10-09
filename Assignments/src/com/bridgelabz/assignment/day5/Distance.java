@@ -1,4 +1,4 @@
-package com.bridgelabz.assignment.day2.operator;
+package com.bridgelabz.assignment.day5;
 
 import com.bridgelabz.assignment.day1.Utiity;
 
@@ -10,7 +10,7 @@ public class Distance {
     }
 
     private static void distance(int x, int y) {
-       double distance = Math.sqrt(x*x + y*y);
+        double distance = Math.sqrt(x*x + y*y);
         System.out.println("Distance from origin: "+distance);
     }
 }

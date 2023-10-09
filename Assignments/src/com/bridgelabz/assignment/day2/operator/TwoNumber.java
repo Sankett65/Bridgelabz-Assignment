@@ -4,8 +4,8 @@ import com.bridgelabz.assignment.day1.Utiity;
 
 public class TwoNumber {
     public static void main(String[] args) {
-        int a= Utiity.scannerint();
-        int b =Utiity.scannerint();
+        int a= Utiity.scannerInt();
+        int b =Utiity.scannerInt();
         operation(a,b);
     }
 

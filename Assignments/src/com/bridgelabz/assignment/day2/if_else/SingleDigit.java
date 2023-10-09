@@ -4,7 +4,7 @@ import com.bridgelabz.assignment.day1.Utiity;
 
 public class SingleDigit {
     public static void main(String[] args) {
-        int x = Utiity.scannerint();
+        int x = Utiity.scannerInt();
         read(x);
     }
 

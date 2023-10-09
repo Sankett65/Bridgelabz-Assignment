@@ -1,8 +1,8 @@
-package com.bridgelabz.assignment.day2.switch_case;
+package com.bridgelabz.assignment.day5;
 
 import com.bridgelabz.assignment.day1.Utiity;
 
-public class Vowels {
+public class Vowel {
     public static void main(String[] args) {
         char n = Utiity.scannerChar();
         vowel(n);

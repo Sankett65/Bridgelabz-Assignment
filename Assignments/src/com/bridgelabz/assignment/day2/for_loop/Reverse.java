@@ -4,7 +4,7 @@ import com.bridgelabz.assignment.day1.Utiity;
 
 public class Reverse {
     public static void main(String[] args) {
-        int n = Utiity.scannerint();
+        int n = Utiity.scannerInt();
         reverse(n);
     }
 
